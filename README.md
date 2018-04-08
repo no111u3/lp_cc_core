@@ -5,3 +5,4 @@ For correct run C++ code your code MUST call initer::setup_cc_env() previosly an
 
 Library depends:
  - lp_cc_devices (ld script's defines for everything places of C++/C initializers and objects)
+ - lp_cc_lib (types and defines)
